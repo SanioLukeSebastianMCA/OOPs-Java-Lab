@@ -1,0 +1,6 @@
+This is my new file. The name of the file is output.
+The data inside the file is sample text and this not have any major content.
+The date of creation is : 06/06/2022.
+The author name is : Sanio Luke Sebastian.
+
+
